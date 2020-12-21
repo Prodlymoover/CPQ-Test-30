@@ -1,0 +1,4 @@
+"Guid","PDRI__FieldName__c","PDRI__ObjectName__c"
+39731ed3-5006-4d43-a806-71aeb22c6852,SBQQ__NetTotal__c,SBQQ__QuoteLine__c
+9c326fc7-5af0-4999-b88f-400d078cdf21,SBQQ__NetPrice__c,SBQQ__QuoteLine__c
+aef38e0c-75d3-4ca8-9577-aea437b6924f,SBQQ__NetAmount__c,SBQQ__Quote__c
